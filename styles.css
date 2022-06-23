@@ -1,0 +1,17 @@
+
+body {
+  background-size: cover;
+  background-attachment: fixed;
+  background-image: url();
+  font-family: "Verdana";
+  
+}
+
+nav {
+  align-content: vertical;
+}
+
+table {
+  border: darkblue 2px dotted;
+  margin: auto;
+}
